@@ -6,4 +6,4 @@
 	url = https://github.com/pebble/cloudpebble-ycmd-proxy.git
 [submodule "cloudpebble-qemu-controller"]
 	path = cloudpebble-qemu-controller
-	url = https://github.com/pebble/cloudpebble-qemu-controller.git
+	url = https://github.com/ltpitt/cloudpebble-qemu-controller.git
